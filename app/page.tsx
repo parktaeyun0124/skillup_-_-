@@ -90,7 +90,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <CharacterCard
               character="friend"
-              title="부랄친구"
+              title="찐친"
               description="친구처럼 직설적이고 현실적으로 혼내줍니다"
               emoji="😤"
               selected={selectedCharacter === "friend"}
