@@ -69,7 +69,7 @@ npm run dev
 - **Frontend**: Next.js 16 (App Router), React, TypeScript
 - **Styling**: CSS, shadcn-ui
 - **AI**: OpenAI GPT-4o-mini
-- **State Management**: React Local State
+- **State Management**: React
 
 ## 💡 개선 아이디어 5개
 
