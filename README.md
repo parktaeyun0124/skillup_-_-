@@ -67,7 +67,7 @@ npm run dev
 ## 🛠️ 기술 스택
 
 - **Frontend**: Next.js 16 (App Router), React, TypeScript
-- **Styling**: Tailwind CSS v4, shadcn-ui
+- **Styling**: CSS, shadcn-ui
 - **AI**: OpenAI GPT-4o-mini
 - **State Management**: React Local State
 
